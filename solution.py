@@ -11,4 +11,3 @@ class Solution:
 print('Codificador Binario 8bits\n')
 stringToTransform = input('Introduce el texto a codificar: ')
 print('Resultado:',Solution().transform(stringToTransform))
-# output en consola: "01010101010101000100010101000011"
