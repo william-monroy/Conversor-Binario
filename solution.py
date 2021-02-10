@@ -7,6 +7,7 @@ class Solution:
           resultado = format(numero,'08b')
           resultado_final = resultado_final + resultado + ' '
         return resultado_final
+        
 
 print('Codificador Binario 8bits\n')
 stringToTransform = input('Introduce el texto a codificar: ')
